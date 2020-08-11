@@ -16,7 +16,6 @@
 .env.local
 .env.development.js
 .env.test.local
-src/.env.production.local
 
 firebase.js
 npm-debug.log*
